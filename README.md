@@ -34,7 +34,7 @@ echo "Welcome to ITMO University"
 ![Снимок экрана (1298)](https://github.com/user-attachments/assets/bd263d21-a30d-4e04-b73f-b93f692ac3a3)
 
 
-4. Запускаем bash-скрипт, выполнив в терминале
+4. Запускаем bash-скрипт, написав в терминале
 
 ```bash
 bash script.bash
